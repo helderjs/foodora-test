@@ -1,0 +1,20 @@
+{
+  "name": "helderjs/foodora_test",
+  "description": "Implementation of Foodora test",
+  "minimum-stability": "stable",
+  "license": "GPLv3",
+  "authors": [
+    {
+      "name": "Helder Santana",
+      "email": "contato@heldersantana.net"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/App"
+    }
+  },
+  "require": {
+    "php": ">=5.6"
+  }
+}
